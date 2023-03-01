@@ -1,3 +1,3 @@
-Group meeting
+PREP-NexT Group Meeting
 ---
-group meeting resources archive
+schedule & resources 
