@@ -11,3 +11,4 @@
 |paper|Apr 5|Shuyue Yan|Coming soon|null|null|null|
 |paper|Apr 12|Zhixiao Niu|Coming soon|null|null|null|
 |research|Apr 19|Huimin Wang|Coming soon|null|null|null|
+|research|May 3|Shengxuan Li|Coming soon|null|null|null|
